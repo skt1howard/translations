@@ -1,5 +1,5 @@
 en:  "Loading latest creature data..",
-zh:  "",
+zh:  "正在加载生物数据...",
 
 //Menu entries
 en:  "Pro Version (Ad free)",
